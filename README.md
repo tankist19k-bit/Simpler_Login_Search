@@ -9,6 +9,7 @@ How to use:
 Export the password file from your browser \ password manager and move it to script folder.
 --------------------------------------------------------------------------------------------
 Поиск производится напрямую через сервис Have I Been Pwned
+
 The search is performed directly via the service Have I Been Pwned
 
 https://haveibeenpwned.com/Passwords
